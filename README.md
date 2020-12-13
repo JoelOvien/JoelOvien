@@ -1,5 +1,10 @@
 ### Yo! It's Zaza here 👋
 
+- 🔭 I’m currently working @ElpisAcademy
+- 🌱 I’m currently learning NodeJS
+- 📫 How to reach me: ...
+- 😄 Pronouns: He, Him, Sama😄
+- ⚡ Interests: Writing Clean code, Anime, Cruise😄 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoelOvien&count_private=true)
 
