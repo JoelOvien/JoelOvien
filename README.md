@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working @ElpisAcademy
 - 🌱 I’m currently learning NodeJS
-- 📫 How to reach me: ...
+<!--- 📫 How to reach me: ...-->
 - 😄 Pronouns: He, Him, Sama😄
 - ⚡ Interests: Writing Clean code, Anime, Cruise😄 
 
