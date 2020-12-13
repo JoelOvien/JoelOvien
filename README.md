@@ -1,7 +1,9 @@
 ### Yo! It's Zaza here 👋
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoelOvien&count_private=true)<!--
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoelOvien&count_private=true)
+
+<!--
 **JoelOvien/JoelOvien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
