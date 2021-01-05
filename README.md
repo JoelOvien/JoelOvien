@@ -1,6 +1,6 @@
 ### Yo! It's Zaza here 👋
 
-- 🔭 I’m currently working @ElpisAcademy
+- 🔭 Currently working @ElpisAcademy
 - 🌱 Currently learning NodeJS
 <!--- 📫 How to reach me: ...-->
 - 😄 Pronouns: He, Him, Sama😄
