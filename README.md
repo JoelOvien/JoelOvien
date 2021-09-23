@@ -1,7 +1,6 @@
 ### Yo! It's Zaza here 👋
 
 - 🔭 Currently working @ElpisAcademy
-- 🌱 Currently learning NodeJS
 <!--- 📫 How to reach me: ...-->
 - 😄 Pronouns: He, Him, Sama😄
 - ⚡ Interests: Writing Clean code, Anime, Cruise😄 
