@@ -3,6 +3,8 @@
 - I am an experienced mobile app developer
 - 😄 Pronouns: He, Him, Sama😄
 - ⚡ Interests: Writing Clean code, Anime, Cruise😄 
+- 🔭 I’m currently working on Chop.Africa
+
 ***
 Stats
 
@@ -11,7 +13,7 @@ Stats
   
   [![GitHub JoelOvien](https://img.shields.io/github/followers/joelovien?label=follow&style=social)](https://github.com/JoelOvien)
   
-  [![JoelOvien's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joelovien&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![JoelOvien's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zaza_codes&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelovien&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/JoelOvien)
   
