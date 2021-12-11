@@ -9,9 +9,12 @@
 Stats
 
   <img src="https://komarev.com/ghpvc/?username=joelovien" alt="joelovien" />
-  <img src="https://wakatime.com/badge/user/ae408e8f-c45e-4ca6-8047-02a4e405200d.svg" alt="Zaza_codes"/>
   
   [![GitHub JoelOvien](https://img.shields.io/github/followers/joelovien?label=follow&style=social)](https://github.com/JoelOvien)
+  
+  <img src="https://wakatime.com/badge/user/ae408e8f-c45e-4ca6-8047-02a4e405200d.svg" alt="Zaza_codes"/>
+  
+
   
   [![JoelOvien's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zaza_codes&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
