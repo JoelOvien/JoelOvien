@@ -3,7 +3,7 @@
 - I am an experienced mobile app developer
 - 😄 Pronouns: He, Him, Sama😄
 - ⚡ Interests: Writing Clean code, Anime, Cruise😄 
-- 🔭 I’m currently working on Chop.Africa
+- 🔭 I’m currently working on Agrivill
 
 ***
 Stats
