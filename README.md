@@ -39,17 +39,10 @@ Unit, Widget, and Integration Testing (flutter_test, bloc_test)
   Cross-border payment platform with 100K+ downloads  
   *Flutter, Firebase, CI/CD, Secure Auth, Real-time Notifications*
 
-- **PT Chat**  
-  EdTech app powering family-school engagement  
-  *Flutter, Admin Dashboard, REST API, Analytics*
-
 - **Tcourier & Partner Central**  
   On-demand food delivery & management apps  
   *Live Tracking, Notifications, Modular Design*
 
-- **ScholarsHQ**  
-  A global community platform for Millennial & Gen Z students  
-  *Community Tools, Events, Internships, Firebase Integration*
 
 ---
 
