@@ -1,68 +1,48 @@
-<img src="https://komarev.com/ghpvc/?username=joelovien" alt="joelovien" />
+# Hey, I'm Joel Ovienloba 👋
 
-# 👋 Hey there, I’m Joel
+**Senior Mobile Engineer** specializing in Flutter, iOS & Android — building high-performance apps that serve 100,000+ users globally.
 
-**Senior Mobile Engineer** | Flutter & Native App Developer
-
----
-
-## 👨🏽‍💻 About Me
-
-I’m a passionate and performance-driven mobile engineer with 5+ years of experience building scalable, secure, and user-focused applications for Android and iOS. I specialize in **Flutter**, with strong roots in **Kotlin**, **Swift**. I’ve led teams, launched high-impact apps, and contributed to products used by thousands across finance, education, logistics, and lifestyle sectors.
-
-- 🔧 Building cross-platform experiences that feel native
-- 🌍 Thriving in remote, async-first environments
-- 🚀 Focused on clean architecture, performance, and maintainability
-- 🧠 Always learning, mentoring, and solving real-world problems with code
+I'm currently the **Mobile Team Lead at [Radius](https://radius.inc) (fka. Pay4Me)**, a Techstars-backed fintech enabling cross-border payments for international students and immigrants. The app I built from the ground up has processed **over $9M in transactions** across **12 countries**.
 
 ---
 
-## 🛠️ Tools & Technologies
+### What I'm known for
 
-**Languages & Frameworks:**  
-Flutter, Dart, Kotlin, Swift, Firebase
-
-**Architectures:**  
-BLoC, MVVM, Clean Architecture, Provider, Riverpod
-
-**DevOps & Tooling:**  
-CI/CD (GitHub Actions, Bitbucket), App Store/Play Store Deployment, Git, Firebase Crashlytics, Sentry
-
-**Testing & QA:**  
-Unit, Widget, and Integration Testing (flutter_test, bloc_test)
+- **100K+ users** served through the Radius mobile app
+- **Over $9M** in cross-border transactions processed
+- **4.6★** on Google Play · **4.5★** on the App Store
+- Featured in **Google #WeArePlay** and on the **NASDAQ MarketSite**
+- **Techstars Chicago '22** — key technical contributor
+- **OSCAFest 2025** speaker
+- **GDSC Lead (Bells University of Technology 2022-2023)** — mentored 10+ developers & designed Flutter curriculum
 
 ---
 
-## 🔥 Featured Projects
+### Tech I work with
 
-- **Pay4Me App**  
-  Cross-border payment platform with 100K+ downloads  
-  *Flutter, Firebase, CI/CD, Secure Auth, Real-time Notifications*
-
-- **Tcourier & Partner Central**  
-  On-demand food delivery & management apps  
-  *Live Tracking, Notifications, Modular Design*
-
+**Mobile:** Flutter · SwiftUI · Android (Kotlin)  
+**Languages:** Dart · Swift · Kotlin · Go · JavaScript  
+**Backend & APIs:** Firebase · Supabase · GraphQL · REST · SQLite  
+**Cloud & DevOps:** GCP · AWS · Docker · GitHub Actions · Fastlane  
+**Architecture:** Clean Architecture · BLoC · MVVM · Modular Feature Design  
 
 ---
 
-## 📬 Let’s Connect
+### Featured work
 
-I'm always open to meaningful collaboration—whether it’s shipping great products, solving tough problems, or mentoring new developers.
+**[Radius (fka. Pay4Me)](https://play.google.com/store/apps/details?id=app.pay4me.app)**  
+Fintech platform for cross-border tuition & payments. Built the production Flutter app as sole mobile engineer, scaled to 100K+ users. Architected wallets, transfers, virtual accounts, USD virtual cards, Fast KYC, and Pay a Business features. Led a 4-person mobile team.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ovienloba-joel)
-- 🧰 Portfolio / Projects: [Coming Soon - https://github.com/Big-jo/byteman]
+**PT Chat**  
+Cross-platform educational app with AI-powered micro-learning. Architected with Clean Architecture, built secure session management, and delivered multi-language support with Text-to-Speech.
+
+**TravelTube**  
+Social travel & food delivery platform. Led development of three interconnected mobile apps. Reduced crash rates by 40% through improved modularity and real-time error tracking.
 
 ---
 
-> “Good code is like good fitness—disciplined, intentional, and built for performance.”  
-> — Me, probably after a gym session 💪
+### Let's connect
 
-***
-## STATS
-      
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelovien&layout=compact&theme=dark&hide_border=true)](https://github.com/JoelOvien)
-    
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoelOvien&show_icons=true&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-***
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ovienloba-joel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://joelovien.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jovienloba1@gmail.com)
