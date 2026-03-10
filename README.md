@@ -2,7 +2,7 @@
 
 **Senior Mobile Engineer** specializing in Flutter, iOS & Android, building high-performance apps that serve 100,000+ users globally.
 
-I'm currently the **Mobile Team Lead at [Radius](https://radius.inc) (fka. Pay4Me)**, a Techstars-backed fintech enabling cross-border payments for international students and immigrants. The app I built from the ground up has processed **over $9M in transactions** across **12 countries**.
+I'm currently the **Mobile Team Lead at [Radius](https://withradius.com/) (fka. Pay4Me App)**, a Techstars-backed fintech enabling cross-border payments for international students and immigrants. The app I built from the ground up has processed **over $9M in transactions** across **12 countries**.
 
 ---
 
@@ -30,7 +30,7 @@ I'm currently the **Mobile Team Lead at [Radius](https://radius.inc) (fka. Pay4M
 
 ### Featured work
 
-**[Radius (fka. Pay4Me)](https://play.google.com/store/apps/details?id=app.pay4me.app)**  
+**[Radius (fka. Pay4Me App)](https://play.google.com/store/apps/details?id=app.pay4me.app)**  
 Fintech platform for cross-border tuition & payments. Built the production Flutter app as sole mobile engineer, scaled to 100K+ users. Architected wallets, transfers, virtual accounts, USD virtual cards, Fast KYC, and Pay a Business features. Led a 4-person mobile team.
 
 **PT Chat**  
