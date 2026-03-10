@@ -1,6 +1,6 @@
 # Hey, I'm Joel Ovienloba 👋
 
-**Senior Mobile Engineer** specializing in Flutter, iOS & Android — building high-performance apps that serve 100,000+ users globally.
+**Senior Mobile Engineer** specializing in Flutter, iOS & Android, building high-performance apps that serve 100,000+ users globally.
 
 I'm currently the **Mobile Team Lead at [Radius](https://radius.inc) (fka. Pay4Me)**, a Techstars-backed fintech enabling cross-border payments for international students and immigrants. The app I built from the ground up has processed **over $9M in transactions** across **12 countries**.
 
