@@ -8,11 +8,7 @@ I'm currently the **Mobile Team Lead at [Radius](https://withradius.com/) (fka. 
 
 ### What I'm known for
 
-- **100K+ users** served through the Radius mobile app
-- **Over $9M** in cross-border transactions processed
-- **4.6★** on Google Play · **4.5★** on the App Store
-- Featured in **Google #WeArePlay** and on the **NASDAQ MarketSite**
-- **Techstars Chicago '22** — key technical contributor
+- **100K+ users** served through the Radius mobile app with **Over $9M** in cross-border transactions processed, **4.6★** on Google Play, **4.5★** on the App Store, featured in **Google #WeArePlay** and on the **NASDAQ MarketSite** as well as **Techstars Chicago '22** as a key technical contributor on the team
 - **OSCAFest 2025** speaker
 - **GDSC Lead (Bells University of Technology 2022-2023)** — mentored 10+ developers & designed Flutter curriculum
 
